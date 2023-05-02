@@ -3,7 +3,8 @@
  
  ---to Deploy app in IIS.
 
-1-Clone this repo to wwwroot
+1-Clone this repo 
+
 2-Set the created repo as the current directory cd foldername
 
 3-Create virtual environment: python -m venv venv
